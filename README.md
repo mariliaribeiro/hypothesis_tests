@@ -1,5 +1,7 @@
 # Hypothesis tests
 
+You can test the app at https://hypothesis-tests.herokuapp.com/
+
 ## Get started
 
 - Create and activate a virtualenv

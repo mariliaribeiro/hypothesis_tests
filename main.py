@@ -6,6 +6,8 @@ from hypothesis_tests import ChiSquareTest
 
 st.title('Hypothesis Tests')
 
+st.markdown('You can access the code at my [github](https://github.com/mariliaribeiro/hypothesis_tests).')
+
 st.header('Chi-square test')
 st.header('Inputs')
   

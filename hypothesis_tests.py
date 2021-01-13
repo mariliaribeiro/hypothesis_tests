@@ -23,7 +23,7 @@ class ChiSquareTest:
       self.label_chi2_statistic = '>'
     else:
       self.acept_H0_by_chi2_statistic = False
-      self.label_acept_H0_by_chi2_statistic = '<='
+      self.label_chi2_statistic = '<='
       
     if self.p_value <= self.alpha:
       self.acept_H0_by_p_value = False
